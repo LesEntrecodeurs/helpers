@@ -1,1 +1,1 @@
-# bash-helpers
+# helpers
